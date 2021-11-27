@@ -5,7 +5,7 @@ import { BasicTable } from "./components/BasicTable";
 function App() {
   return (
     <div className="App">
-      <BasicTable />
+      <BasicTable /> {/*  called table component here  */}
     </div>
   );
 }
